@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "./components/Navbar";
-import { TechnicalDesc } from "./components/TechnicalDesc";
+import { TechnicalDesc } from "./components/technicaldesc";
 import Skills from "./components/skill";
 import Project from "./components/projects";
 import WorkExp from "./components/workexp";
