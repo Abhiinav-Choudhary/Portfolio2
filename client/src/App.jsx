@@ -5,6 +5,7 @@ import Skills from "./components/skill";
 import Project from "./components/projects";
 import WorkExp from "./components/workexp";
 import ContactForm from "./components/contactform";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -31,6 +32,11 @@ function App() {
 
       <section id="contactform">
         <ContactForm />
+      </section>
+
+      
+      <section id="footer">
+        <Footer />
       </section>
     </div>
   );
