@@ -3,18 +3,18 @@ import { motion } from "framer-motion";
 
 const workExperiences = [
   {
-    role: "Full-Stack Developer Intern",
-    company: "ABC Tech Solutions",
-    duration: "Jun 2025 - Aug 2025",
+    role: "Full-Stack Developer (Project Experience)",
+    company: "Self-Developed Projects",
+    duration: "2024 - Present",
     description:
-      "Worked on building a real-time leaderboard system using React, Node.js, and MongoDB. Implemented JWT authentication, live updates, and user dashboards.",
+      "Built multiple full-stack applications using the MERN stack, including a facial recognition-based attendance system and AI chatbot using Gemini API. Implemented authentication, REST APIs, image processing, and real-time features.",
   },
   {
-    role: "Machine Learning Intern",
-    company: "XYZ AI Labs",
-    duration: "Jan 2025 - May 2025",
+    role: "MERN Stack Developer Trainee",
+    company: "Cynbit Technology, Jaipur",
+    duration: "June 2025",
     description:
-      "Developed predictive models using Python, scikit-learn, and pandas. Worked on house price prediction and sentiment analysis projects.",
+      "Worked on real-world MERN stack projects, focusing on scalable backend APIs, frontend integration, and database design using MongoDB.",
   },
 ];
 

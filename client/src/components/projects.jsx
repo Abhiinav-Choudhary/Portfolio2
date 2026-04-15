@@ -4,25 +4,25 @@ import { Github, Globe } from "lucide-react";
 
 const projects = [
   {
-    title: "MindCare – AI Healthcare Platform",
+    title: "Callisthenics E-commerce Website",
     description:
-      "An AI-powered healthcare app built with Next.js and OpenAI APIs that helps elderly users track mood, heart rate, and connect with a chatbot.",
-    github: "https://github.com/abhinavchaudhary/MindCare",
-    live: "https://mindcare-ai.vercel.app/",
+      "An e-commerce platform for selling calisthenics workout equipment and accessories.",
+    github: "https://github.com/Abhiinav-Choudhary/workout.git",
+    live: "https://workout-mauve.vercel.app/",
   },
   {
-    title: "Leaderboard System",
+    title: "Movie Ratting Website",
     description:
-      "A full-stack leaderboard system built using React and Node.js with real-time score updates and MongoDB integration.",
-    github: "https://github.com/abhinavchaudhary/leaderboard-system",
-    live: "https://leaderboard-app.vercel.app/",
+      "A full-stack movie rating system built using React and Node.js with real-time score updates and MongoDB integration.",
+    github: "https://github.com/Abhiinav-Choudhary/Movie-Rating-website.git",
+    live: "https://movie-rating-website-r61v.vercel.app/",
   },
   {
-    title: "Chatting Web App",
+    title: "ChatRoom App",
     description:
       "A real-time chat app built with React, Express, and Socket.io supporting user authentication and media sharing.",
-    github: "https://github.com/abhinavchaudhary/chatting-web-app",
-    live: "https://chat-connect.vercel.app/",
+    github: "https://github.com/Abhiinav-Choudhary/chatRoom.git",
+    live: "https://chat-room-mu-umber.vercel.app/",
   },
 ];
 
