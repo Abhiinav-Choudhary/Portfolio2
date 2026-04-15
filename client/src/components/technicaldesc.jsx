@@ -44,10 +44,10 @@ export const TechnicalDesc = () => {
         className="flex-shrink-0 mb-6 md:mb-0"
       >
         <img
-          src="/Abhinav.png"
-          alt="Abhinav Chaudhary"
-          className="w-40 sm:w-48 md:w-56 h-40 sm:h-48 md:h-56 rounded-full shadow-[0_0_25px_rgba(59,130,246,0.6)] object-cover border-4 border-blue-500 dark:border-blue-400 transition-all duration-500"
-        />
+  src="/avtar.avif"
+  alt="Abhinav Chaudhary"
+  className="w-40 sm:w-48 md:w-56 h-40 sm:h-48 md:h-56 rounded-full shadow-[0_0_25px_rgba(59,130,246,0.6)] object-cover border-4 border-blue-500 dark:border-blue-400 transition-all duration-500"
+/>
       </motion.div>
     </section>
   );
