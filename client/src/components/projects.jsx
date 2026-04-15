@@ -71,7 +71,7 @@ const Project = () => {
             className="bg-gray-100/50 dark:bg-gray-800/70 backdrop-blur-md border border-gray-200 dark:border-gray-700 rounded-2xl p-6 sm:p-8 shadow-lg hover:shadow-[0_0_25px_rgba(59,130,246,0.6)] transition-all duration-500 relative overflow-hidden"
           >
             {/* Gradient hover overlay */}
-            <div className="absolute inset-0 bg-gradient-to-br from-blue-500/0 via-blue-500/10 to-transparent opacity-0 hover:opacity-100 transition-opacity duration-500 rounded-2xl"></div>
+           <div className="absolute inset-0 bg-gradient-to-br from-blue-500/0 via-blue-500/10 to-transparent opacity-0 hover:opacity-100 transition-opacity duration-500 rounded-2xl pointer-events-none"></div>
 
             {/* Floating subtle animation */}
             <motion.div
