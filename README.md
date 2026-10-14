@@ -93,8 +93,8 @@ A web application for exploring movies and interacting with movie-related inform
 A full-stack news application. Explore the source code and add a live demo link when available.
 
 - **Technologies:** Add the technologies actually used in this project.
-- [Source Code](#)
-- [Live Demo](#)
+- [Source Code](https://github.com/Abhiinav-Choudhary/News-fullstack.git)
+- [Live Demo](https://news-fullstack-eight.vercel.app/)
 
 ### 4. ChatRoom Application
 
