@@ -6,6 +6,7 @@ import Project from "./components/projects";
 import WorkExp from "./components/workexp";
 import ContactForm from "./components/contactform";
 import Footer from "./components/Footer";
+import ProblemSolving from "./components/ProblemSolving";
 
 function App() {
   return (
@@ -18,22 +19,25 @@ function App() {
         <TechnicalDesc />
       </section>
 
-      <section id="skill">
-        <Skills />
+     <section id="skill" className="scroll-mt-20">
+     <Skills />
+     </section>
+     
+     <section id="problem-solving" className="scroll-mt-20">
+     <ProblemSolving />
+     </section>
+
+     <section id="projects" className="scroll-mt-20">
+      <Project />
+     </section>
+
+     <section id="workexp" className="scroll-mt-20">
+      <WorkExp />
       </section>
 
-      <section id="projects">
-        <Project />
-      </section>
-
-      <section id="workexp">
-        <WorkExp />
-      </section>
-
-      <section id="contactform">
-        <ContactForm />
-      </section>
-
+     <section id="contactform" className="scroll-mt-20">
+      <ContactForm />
+     </section>
       
       <section id="footer">
         <Footer />

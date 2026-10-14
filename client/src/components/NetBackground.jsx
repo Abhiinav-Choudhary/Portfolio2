@@ -9,7 +9,7 @@ const NetBackground = () => {
 
   return (
     <Particles
-      className="absolute inset-0 -z-10"
+     className="absolute inset-0 z-0 pointer-events-none"
       init={particlesInit}
       options={{
         background: {
