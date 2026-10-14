@@ -50,7 +50,7 @@ const projects = [
   description:
     "A full-stack news website for browsing and exploring news articles.",
   github: "YOUR_NEWSFULLSTACK_GITHUB_URL",
-  live: "YOUR_NEWSFULLSTACK_LIVE_URL",
+  live: "https://news-fullstack-eight.vercel.app/",
   technologies: ["React", "Node.js", "Express", "MongoDB"],
   number: "04",
   category: "Full-Stack Web App",
