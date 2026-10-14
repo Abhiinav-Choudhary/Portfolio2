@@ -22,18 +22,18 @@ const projects = [
     category: "E-commerce",
     accent: "from-blue-500/20 via-cyan-500/10 to-transparent",
   },
-  {
-    title: "Movie Rating Website",
-    description:
-      "A full-stack movie rating system built using React and Node.js with score updates and MongoDB integration.",
-    github:
-      "https://github.com/Abhiinav-Choudhary/Movie-Rating-website.git",
-    live: "https://movie-rating-website-r61v.vercel.app/",
-    technologies: ["React", "Node.js", "MongoDB"],
-    number: "02",
-    category: "Full Stack",
-    accent: "from-indigo-500/20 via-blue-500/10 to-transparent",
-  },
+  // {
+  //   title: "Movie Rating Website",
+  //   description:
+  //     "A full-stack movie rating system built using React and Node.js with score updates and MongoDB integration.",
+  //   github:
+  //     "https://github.com/Abhiinav-Choudhary/Movie-Rating-website.git",
+  //   live: "https://movie-rating-website-r61v.vercel.app/",
+  //   technologies: ["React", "Node.js", "MongoDB"],
+  //   number: "02",
+  //   category: "Full Stack",
+  //   accent: "from-indigo-500/20 via-blue-500/10 to-transparent",
+  // },
   {
     title: "ChatRoom App",
     description:
