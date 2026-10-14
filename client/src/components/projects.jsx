@@ -49,7 +49,7 @@ const projects = [
   title: "NewsFullStack",
   description:
     "A full-stack news website for browsing and exploring news articles.",
-  github: "YOUR_NEWSFULLSTACK_GITHUB_URL",
+  github: "https://github.com/Abhiinav-Choudhary/News-fullstack.git",
   live: "https://news-fullstack-eight.vercel.app/",
   technologies: ["React", "Node.js", "Express", "MongoDB"],
   number: "04",
